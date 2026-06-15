@@ -6,18 +6,15 @@ Uma página web interativa criada para presentear minha namorada no Dia dos Namo
 
 Este projeto consiste em uma página temática de Dia dos Namorados contendo:
 
-* Mensagem especial de boas-vindas.
 * GIF animado de um ursinho apaixonado.
 * Botão **SIM** para aceitar o presente.
-* Botão **NÃO** que foge do cursor do mouse.
+* Botão **NÃO** que foge do cursor do mouse (ou do toque).
 * Chuva de corações animados pela tela.
 * Layout responsivo para computadores, tablets e smartphones.
 
 O objetivo foi unir criatividade, programação e aprendizado em um único projeto.
 
----
-
-## 🚀 Demonstração
+## 🕹️ Como funciona
 
 Após abrir a página, o usuário encontrará uma mensagem romântica acompanhada por um ursinho animado.
 
@@ -25,19 +22,9 @@ Ao tentar clicar em **NÃO**, o botão muda de posição aleatoriamente pela tel
 
 Ao clicar em **SIM**, uma mensagem especial é exibida.
 
----
+## 📸 Preview
 
-## 📸 Capturas de tela
-
-### Tela principal
-
-> Adicione aqui uma imagem do projeto depois de enviá-la para o repositório.
-
-```markdown
-![Tela Principal](./assets/preview.png)
-```
-
----
+![Preview do Projeto](assets/preview.png)
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -45,7 +32,7 @@ Ao clicar em **SIM**, uma mensagem especial é exibida.
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla JS)
+* JavaScript
 
 ### Recursos utilizados
 
@@ -54,8 +41,6 @@ Ao clicar em **SIM**, uma mensagem especial é exibida.
 * Manipulação do DOM
 * Eventos JavaScript
 * Responsividade
-
----
 
 ## 📂 Estrutura do projeto
 
@@ -67,32 +52,17 @@ Projeto-Dia-dos-Namorados/
 ├── script.js
 │
 ├── images/
-│   └── ursinho-fofo-apaixonado.gif
-│
+│   ├── ursinho-fofo-apaixonado.gif
+│   └── ursinho-fofo.gif
 └── README.md
 ```
 
----
-
 ## ⚙️ Funcionalidades
 
-### ❤️ Chuva de corações
-
-Corações são gerados dinamicamente utilizando JavaScript e animados com CSS.
-
-### 🏃 Botão "NÃO" fugitivo
-
-Ao aproximar o cursor do botão, ele é reposicionado aleatoriamente na tela.
-
-### 📱 Responsividade
-
-O layout foi adaptado para funcionar em diferentes resoluções e dispositivos.
-
-### 🎁 Mensagem especial
-
-Ao clicar em **SIM**, uma mensagem personalizada é exibida ao usuário.
-
----
+- Corações são gerados dinamicamente utilizando JavaScript e animados com CSS.
+- Ao aproximar o cursor ou tocar no botão NÃO, ele é reposicionado aleatoriamente na tela.
+- O layout foi adaptado para funcionar em diferentes resoluções e dispositivos.
+- Ao clicar em **SIM**, uma mensagem personalizada é exibida ao usuário.
 
 ## 🎯 Objetivos de aprendizado
 
@@ -106,25 +76,12 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 * Animações CSS.
 * Organização de arquivos de um projeto Front-End.
 
----
-
-## 💡 Melhorias futuras
-
-* Adicionar música de fundo.
-* Inserir fotos do casal.
-* Criar efeitos visuais adicionais.
-* Adicionar contador de tempo de relacionamento.
-* Melhorar as animações dos corações.
-* Publicar em domínio personalizado.
-
----
-
 ## 🌐 Como executar o projeto
 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/dia-dos-namorados.git
+git clone https://github.com/Brandoon001/dia-dos-namorados.git
 ```
 
 2. Entre na pasta:
@@ -135,18 +92,18 @@ cd dia-dos-namorados
 
 3. Abra o arquivo `index.html` em seu navegador.
 
----
+## 🌐 Demonstração
+
+[Visualizar Projeto](https://brandoon001.github.io/dia-dos-namorados)
 
 ## 👨‍💻 Autor
 
-Antonio Brandoon Costa Silva
+**Brandoon Silva**
 
-Estudante de Desenvolvimento Web e Design Gráfico.
-
-GitHub: https://github.com/Brandoon001
-
----
+- GitHub: [Brandoon001](https://github.com/Brandoon001)
+- LinkedIn: [Brandoon Silva](https://www.linkedin.com/in/brandoon-silva-352894215/)
+- Email: brandoonsilva8@gmail.com
 
 ## 📜 Licença
 
-Este projeto foi desenvolvido para fins educacionais e pessoais.
+Este projeto foi desenvolvido como uma forma criativa de unir programação e uma data especial, servindo também como prática dos meus estudos em desenvolvimento Front-End.
