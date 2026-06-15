@@ -106,4 +106,4 @@ cd dia-dos-namorados
 
 ## 📜 Licença
 
-Este projeto foi desenvolvido como uma forma criativa de unir programação e uma data especial, servindo também como prática dos meus estudos em desenvolvimento Front-End.
+Este projeto foi desenvolvido como uma forma criativa de unir programação e uma data especial, servindo também como prática dos meus estudos em desenvolvimento web.
